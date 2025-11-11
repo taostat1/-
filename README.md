@@ -4,5 +4,4 @@
 该部分代码由R语言撰写，前413行代码为数据预处理过程，自415行代码为潜在剖面分析代码。
 ### 图1-图6折线图以及条形图代码
 该部分代码由Python语言撰写。
-### 带调节的中介模型
-该模型由PLS-SEM (Partial Least Squares Structural Equation Modeling, 偏最小二乘结构方程)实现, 实现版本为SmartPLS 4版本。
+
